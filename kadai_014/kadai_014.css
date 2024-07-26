@@ -1,0 +1,56 @@
+CSS
+css
+コードをコピーする
+:root {
+    font-size: 20px;
+}
+
+body {
+    font-family: "Arial", "Meiryo", sans-serif;
+    text-align: center;   
+}
+
+
+
+h1 {
+    font-family: 'Josefin Sans', sans-serif; 
+    text-shadow: 2px 2px 2px black; 
+    letter-spacing: 1.2em;
+    font-size: 2rem;
+    border-bottom: solid 2px rgb(115, 115, 114)
+    
+
+}
+
+h1 span.b {
+    color: skyblue;
+}
+
+h1 span.p {
+    color: rgb(255, 192, 203);
+}
+
+h2 {
+    font-size: 1.2em;
+    margin-bottom: 5px;
+}
+
+.pink {
+    color: rgb(255, 192, 203);
+}
+
+.blue {
+    color: skyblue;
+}
+
+
+.profile p {
+    font-size: 1em;
+    margin: 0;
+    color: #333;
+}
+
+
+#basic p.futoji {
+    font-weight: bold;
+}
